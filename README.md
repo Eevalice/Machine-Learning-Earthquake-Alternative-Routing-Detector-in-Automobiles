@@ -14,14 +14,13 @@
 
 <img src="https://github.com/Eevalice/Surveying-GPS-based-Machine-Learning-Earthquake-Alternative-Routing-Detector-in-Automobiles/assets/79138019/e70e2339-c4d8-4874-b3bd-fab5a14b2dfc" width="600" height="300"/>
 
-
+<b>Reference for Image - https://realpython.com/podcasts/rpp/ </b>
 
 
 ---
 This application displays a list of recent earthquakes and alerts the user of the automobiles which instructs an alternative paths or routes for safety precautions, this application is developed to prevent casualties and avoid dangerous paths or routes in the Philippines.
 
-<b>Developing/Coding In Progress</b>
-<i>Jupyter/Python/Django Workspace</i>
+<b>Developing/Coding In Progress - </b><i>Jupyter/Python/Django Workspace</i>
 
 ```python
 import os, sys
