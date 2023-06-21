@@ -3,7 +3,7 @@
 
 <b> Research and Development (R & D) Proposal | Surveying Global Positioning System (GPS)-based Machine Learning Earthquake Alternative Routing Detector in Automobiles </b>
 
-<b> Django/Python Developer - Carl Vincent A. Reyno </b>
+<b> Developer - Carl Vincent A. Reyno </b>
 ----
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/mathworks/jupyter-matlab-proxy/run-tests.yml?branch=main&logo=github)](https://www.mathworks.com)
