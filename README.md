@@ -12,7 +12,7 @@
 
 <img src="https://github.com/Eevalice/Surveying-GPS-based-Machine-Learning-Earthquake-Alternative-Routing-Detector-in-Automobiles/assets/79138019/c098e9a6-6545-4687-9ed3-b45d9d5ca342" width="200" height="200" />
 
-<img src="https://github.com/Eevalice/Surveying-GPS-based-Machine-Learning-Earthquake-Alternative-Routing-Detector-in-Automobiles/assets/79138019/e70e2339-c4d8-4874-b3bd-fab5a14b2dfc" width="500" height="250"/>
+<img src="https://github.com/Eevalice/Surveying-GPS-based-Machine-Learning-Earthquake-Alternative-Routing-Detector-in-Automobiles/assets/79138019/e70e2339-c4d8-4874-b3bd-fab5a14b2dfc" width="450" height="250"/>
 
 <b>Reference for Image - https://realpython.com/podcasts/rpp/ </b>
 
