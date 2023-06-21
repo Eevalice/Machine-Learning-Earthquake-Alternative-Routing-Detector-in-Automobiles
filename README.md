@@ -1,4 +1,4 @@
-# Surveying-GPS-based-Machine-Learning-Earthquake-Alternative-Routing-Detector-in-Automobiles
+# Machine-Learning-Earthquake-Alternative-Routing-Detector-in-Automobiles
 
 
 <b> Research and Development (R & D) Proposal | Surveying Global Positioning System (GPS)-based Machine Learning Earthquake Alternative Routing Detector in Automobiles </b>
