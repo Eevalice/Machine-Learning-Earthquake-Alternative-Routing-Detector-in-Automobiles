@@ -10,7 +10,7 @@
 
 <!--![Matlab_Logo](https://user-images.githubusercontent.com/79138019/236503435-3328be99-f523-4b4b-9039-269bbf6a5ca9.png) -->
 
-<img align="left" src="https://github.com/Eevalice/Surveying-GPS-based-Machine-Learning-Earthquake-Alternative-Routing-Detector-in-Automobiles/assets/79138019/c098e9a6-6545-4687-9ed3-b45d9d5ca342" width="450" height="450"/>
+<img align="left" src="./img/python-logo-notext.svg" width="450" height="450"/>
 <img src="./img/django_adobe_express.svg" width="450" height="550"/>
 
 <b>Reference for Image - https://realpython.com/podcasts/rpp/</b>
