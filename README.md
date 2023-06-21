@@ -10,10 +10,11 @@
 
 <!--![Matlab_Logo](https://user-images.githubusercontent.com/79138019/236503435-3328be99-f523-4b4b-9039-269bbf6a5ca9.png) -->
 
-<img align="left" src="./img/python-logo-notext.svg" width="450" height="450"/>
-<img src="./img/django_adobe_express.svg" width="450" height="550"/>
+<img align="left" src="./img/python-logo-notext.svg" width="250" height="250"/>
+<img src="./img/django_adobe_express.svg" width="450"/>
 
 <b>Reference for Image - https://realpython.com/podcasts/rpp/</b>
+
 ---
 This application displays a list of recent earthquakes and alerts the user of the automobiles which instructs an alternative paths or routes for safety precautions, this application is developed to prevent casualties and avoid dangerous paths or routes in the Philippines.
 
