@@ -1,7 +1,7 @@
 #### Machine-Learning-Earthquake-Alternative-Routing-Detector-in-Automobiles
 
 
-#### Research and Development (R & D) Proposal | Surveying Global Positioning System (GPS)-based Machine Learning Earthquake Alternative Routing Detector in Automobiles 
+#### Research and Development (R & D) Proposal | Surveying Global Positioning System (GPS)-based Machine Learning Earthquake Alternative Routing Detector in Automobiles using Django and Python
 #### Developer - Carl Vincent A. Reyno
 ----
 
